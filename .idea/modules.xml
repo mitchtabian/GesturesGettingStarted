@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GesturesGettingStarted.iml" filepath="$PROJECT_DIR$/GesturesGettingStarted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GesturesGettingStarted.iml" filepath="$PROJECT_DIR$/.idea/GesturesGettingStarted.iml" />
+      <module fileurl="file://F:\AndroidStudio Projects\GesturesGettingStarted\GesturesGettingStarted.iml" filepath="F:\AndroidStudio Projects\GesturesGettingStarted\GesturesGettingStarted.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://F:\AndroidStudio Projects\GesturesGettingStarted\app\app.iml" filepath="F:\AndroidStudio Projects\GesturesGettingStarted\app\app.iml" />
     </modules>
   </component>
 </project>
